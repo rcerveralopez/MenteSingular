@@ -1,0 +1,12 @@
+{
+  "taskId": "a0774bbc-d74e-4a5c-bbdc-0bdb88fbc90e",
+  "productId": null,
+  "createdAt": "2026-04-05T05:54:48.761Z",
+  "strategy": "worktree",
+  "branch": "autopilot/mission-control-github-smoke-test-4",
+  "baseBranch": "main",
+  "baseCommit": "e970192809c98e0ba3d818aeac72638fbcc07b34",
+  "status": "active",
+  "agentId": "e773a7c6-2792-4e05-b114-79a01a4e7078",
+  "isolatedPort": 4240
+}
